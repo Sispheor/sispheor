@@ -31,7 +31,7 @@ I do love automating ALL the things 🚀!
 
 <img width="40%" height="40%" align="right" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  />
 
-- 👷🏻 SRE engineer 
+- 👷🏻 SRE engineer
 - 🐍Python lover
 - 🤝Open source evangelist
 - 🐧Linux addict
@@ -41,13 +41,15 @@ I do love automating ALL the things 🚀!
 
 ## GitHub stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sispheor)](https://git.io/streak-stats)
+[![Ale's Github Stats](https://github-readme-stats.vercel.app/api?username=sispheor&count_private=true&theme=city_lights&show_icons=true)](https://github.com/sispheor)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sispheor&theme=nord&title=Issues,PullRequest,Stars,Repositories,Commits,Followers)](https://github.com/sispheor/sispheor)
+### Top languages
+
+[![Ale's Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sispheor&layout=compact&theme=github_dark&bg_color=181818&hide_border=true)](https://github.com/sispheor)
+
 
 ## Quotes
 
 ```
 Happiness is not something ready made. It comes from your own actions - Dalai Lama XIV
 ```
-
-
